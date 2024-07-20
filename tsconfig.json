@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "jsx": "react-jsx",
+    "baseUrl": "src",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "declaration": true,
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "allowImportingTsExtensions": true,
+    "emitDeclarationOnly": true,
+    "strict": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}

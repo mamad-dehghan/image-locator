@@ -1,0 +1,24 @@
+{
+  "name": "image-locator",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "description": "Locate images between two page redirect",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {
+    "classnames": "^2.5.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.24.0",
+    "wouter": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "typescript": "^5.2.2"
+  }
+}
